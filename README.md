@@ -17,7 +17,7 @@ What you should learn from this project:
 ******************************************************************************
 
 
-## Table of contents
+Table of contents
 =================
 
 <!--ts-->
@@ -45,6 +45,8 @@ What you should learn from this project:
 
 ### [3. swap](./1003-mul.bf)
 * Implement the swap opcode.
+
+******************************************************************************
 
 ## Compilation
 
